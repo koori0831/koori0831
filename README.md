@@ -34,13 +34,13 @@
 
 
 
-# My GitHub:
+# **My GitHub**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koori0831&hide=contribs,prs&show_icons=true&theme=shades-of-purple)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=koori0831&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 
-## Contact me:
+## **Contact me**
 <div>
 <a href = "mailto: fuyunokoori0831@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = https://github.com/koori0831 ><img loading="lazy" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
