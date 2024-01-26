@@ -1,16 +1,34 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=4166F5&text=Hello,%20I'm%20koori!&textBg=false&fontColor=234794&fontSize=90&animation=fadeIn)
+# 자기소개
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Han+Sans&duration=3000&pause=1000&color=2956B2&random=false&width=435&lines=%EC%A0%80%EB%8A%94+%EA%B2%8C%EC%9E%84%EB%A7%88%EC%9D%B4%EC%8A%A4%ED%84%B0%EA%B3%A0%EC%97%90+%EC%9E%AC%ED%95%99+%EC%A4%91%EC%9D%B8;1%ED%95%99%EB%85%84+%EC%B5%9C%EC%B0%AC%ED%98%B8%EC%9E%85%EB%8B%88%EB%8B%A4!)](https://git.io/typing-svg)
+<br>
 
-<!--
-**koori0831/koori0831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 언어와 툴들
 
-Here are some ideas to get you started:
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 공부중인 것들:
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cs"/>](https://developer.mozilla.org/en-US/docs/Web/CS)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cpp"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=py"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=unity"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+
+#### 앞으로 배우고 싶은 것들:
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=blender"/>](https://sass-lang.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=unreal"/>](https://www.typescriptlang.org/)
+
+#### 사용하는 툴:
+
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ps"/>](https://git-scm.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=pr"/>](https://git-scm.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ae"/>](https://git-scm.com/)
+<br>
+
+## Contact me:
+<div>
+<a href = "mailto: fuyunokoori0831@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto: fuyunokoori0831@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
