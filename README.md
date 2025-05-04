@@ -30,7 +30,7 @@
 
 # **프로젝트**
 
-### **인격해체 공식 번역**(전 유저모드)<br>[번역 시트](https://docs.google.com/document/d/188-ftHxTPhX8Khr7PGqQU4Xw5SIPpYRmGWmBhVzbc1Q/edit)<br>[스팀](https://steamcommunity.com/sharedfiles/filedetails/?id=3072750171)
+### **백준허브 파이어폭스**<br>[repo](https://github.com/koori0831/BaekjoonHubFirefox)
 
 
 
