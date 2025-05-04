@@ -9,20 +9,20 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### 공부중인 것들:
-  [<img height="48px" width="48px" alt="Icone CS" src="https://skillicons.dev/icons?i=cs"/>]
-  [<img height="48px" width="48px" alt="Icone CPP" src="https://skillicons.dev/icons?i=cpp"/>]
-  [<img height="48px" width="48px" alt="Icone Unity" src="https://skillicons.dev/icons?i=unity"/>]
-  [<img height="48px" width="48px" alt="Icone Unreal" src="https://skillicons.dev/icons?i=unreal"/>]
+  <img height="48px" width="48px" alt="Icone CS" src="https://skillicons.dev/icons?i=cs"/>
+  <img height="48px" width="48px" alt="Icone CPP" src="https://skillicons.dev/icons?i=cpp"/>
+  <img height="48px" width="48px" alt="Icone Unity" src="https://skillicons.dev/icons?i=unity"/>
+  <img height="48px" width="48px" alt="Icone Unreal" src="https://skillicons.dev/icons?i=unreal"/>
 
 #### 앞으로 배우고 싶은 것들:
- [<img height="48px" width="48px" alt="Icone GO" src="https://skillicons.dev/icons?i=go"/>]
- [<img height="48px" width="48px" alt="Icone Godot" src="https://skillicons.dev/icons?i=godot"/>]
+ <img height="48px" width="48px" alt="Icone GO" src="https://skillicons.dev/icons?i=go"/>
+ <img height="48px" width="48px" alt="Icone Godot" src="https://skillicons.dev/icons?i=godot"/>
   
 #### 사용하는 툴:
-  [<img height="48px" width="48px" alt="Icone VS" src="https://skillicons.dev/icons?i=visualstudio"/>]
-  [<img height="48px" width="48px" alt="Icone notion" src="https://skillicons.dev/icons?i=notion"/>]
-  [<img height="48px" width="48px" alt="Icone PS" src="https://skillicons.dev/icons?i=ps"/>]
-  [<img height="48px" width="48px" alt="Icone Blender" src="https://skillicons.dev/icons?i=blender"/>]
+  <img height="48px" width="48px" alt="Icone VS" src="https://skillicons.dev/icons?i=visualstudio"/>
+  <img height="48px" width="48px" alt="Icone notion" src="https://skillicons.dev/icons?i=notion"/>
+  <img height="48px" width="48px" alt="Icone PS" src="https://skillicons.dev/icons?i=ps"/>
+  <img height="48px" width="48px" alt="Icone Blender" src="https://skillicons.dev/icons?i=blender"/>
 <br>
 
 # **프로젝트**
