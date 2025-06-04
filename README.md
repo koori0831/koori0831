@@ -29,6 +29,7 @@
 # 프로젝트
 ### [학교 포폴 사이트](https://ggm.gondr.net/user/profile/330)
 ### [백준허브 파이어폭스](https://github.com/koori0831/BaekjoonHubFirefox)
+### [디스코드 일정관리 봇](https://github.com/koori0831/kanban-board-bot)
 <br>
 
 # My GitHub
