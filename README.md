@@ -8,9 +8,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-39C5BB?style=for-the-badge&logo=notion&logoColor=05090c)](https://ggm.gondr.net/user/profile/330)
-[![Blog](https://img.shields.io/badge/Blog-081016?style=for-the-badge&logo=tistory&logoColor=39C5BB)](https://fuyunokoori.tistory.com)
-[![GitHub](https://img.shields.io/badge/GitHub-05090C?style=for-the-badge&logo=github&logoColor=39C5BB)](https://github.com/koori0831)
+[![Portfolio](https://img.shields.io/badge/Portfolio-39C5BB?style=for-the-badge&logo=notion&logoColor=05090c)](https://www.notion.so/26832766028e8087aa09f95ad49d151d?source=copy_link)
 [![Email](https://img.shields.io/badge/Email-39C5BB?style=for-the-badge&logo=gmail&logoColor=05090c)](mailto:chanhochoi0831@gmail.com)
 
 </div>
@@ -232,9 +230,7 @@ FSM을 활용해 플레이어 애니메이션 상태를 관리하고, 게임 흐
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-39C5BB?style=for-the-badge&logo=gmail&logoColor=05090c)](mailto:chanhochoi0831@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-05090C?style=for-the-badge&logo=github&logoColor=39C5BB)](https://github.com/koori0831)
-[![Portfolio](https://img.shields.io/badge/Portfolio-39C5BB?style=for-the-badge&logo=notion&logoColor=05090c)](https://ggm.gondr.net/user/profile/330)
-[![Blog](https://img.shields.io/badge/Blog-05090C?style=for-the-badge&logo=tistory&logoColor=39C5BB)](https://fuyunokoori.tistory.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-39C5BB?style=for-the-badge&logo=notion&logoColor=05090c)](https://www.notion.so/26832766028e8087aa09f95ad49d151d?source=copy_link)
 
 </div>
 
